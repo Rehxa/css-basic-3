@@ -1,0 +1,28 @@
+/* TODO */
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    background-color: #FA83CD;
+    border: 10px solid #D872B3;
+    border-radius: 1.5em;
+    padding: 1em 2em;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+button:hover{
+    background-color: #AD578D;
+    border: 10px solid #6E3659;
+    border-radius: 1.5em;
+    padding: 1em 2em;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.5em;
+    cursor: pointer;
+}
